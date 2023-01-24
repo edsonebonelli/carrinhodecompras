@@ -3,7 +3,7 @@
 <p>Projeto realizado conforme meu andamento nos cursos de JAVA pela UDEMY e ALURA</p>
    
 <p>Um projeto de carrinhos de compras de uma loja online que tem como objetivo as seguintes funcionalidades.</p>
-<p>Adicionar um produto no carrinho, visualizar o carrinho, listar produtos no carrinho, remover produtos do carrinho e finalizar compras</p>
+<p>Adicionar um produto no carrinho, visualizar o carrinho, listar produtos no carrinho, remover produtos do carrinho e finalizar compras.</p>
 
 <h1> Técnologias Usada 💻 </h1>
 
